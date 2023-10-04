@@ -68,3 +68,13 @@
 20230926	22:28:13	f956fc48-564c-4828-a808-29b7cd45b4a8	GET	undefined	/employee
 20230926	22:28:14	210fea25-802e-4623-b955-3c576ed0bcb3	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Routing\views\404.html'
 20230926	22:29:14	a29c4cf6-971c-4b96-bbdf-fb8d1bdd78a0	GET	undefined	/employees
+20231004	12:03:19	684b91b5-8465-4565-a128-ceccaa4c61f3	GET	undefined	/employees
+20231004	12:04:55	681ac3c5-4ad9-420b-a56e-7d6f6d5f1888	POST	undefined	/employees
+20231004	12:07:30	206b39e5-01ec-43c1-bc3a-ecd218174647	GET	undefined	/employees
+20231004	12:27:50	17be03c0-3cec-44a2-b8af-1f5cee62c588	POST	undefined	/employees
+20231004	12:30:13	35cf86f7-f0c6-46f1-9203-db829cb67603	POST	undefined	/employees
+20231004	12:40:09	407d6654-312a-4940-bb68-67d14b796fab	POST	undefined	/employees
+20231004	12:44:56	23be4a95-81c9-446b-9f21-e3952f5d66ea	POST	undefined	/employees
+20231004	12:46:58	76840ec7-851b-45c0-89e9-534b58c6938a	PUT	undefined	/employees
+20231004	12:51:21	b21659e2-522b-4c9a-92d7-711c944615fa	DELETE	undefined	/employees
+20231004	12:52:49	1f6c7675-82e0-46c1-a430-f68d82cea476	GET	undefined	/employees/2
